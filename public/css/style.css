@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    background-color: #333;
+}
+.container {
+    border-radius: 15px;
+    background-color: rgb(24, 24, 24);
+    color: aliceblue;
+    box-shadow: 0 0 20px rgba(0,0,0,0.3);
+    padding: 20px;
+}
